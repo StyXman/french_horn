@@ -1,2 +1,4 @@
 # french_horn
-A(nother) opinionated Mastodon client
+An(other) opinionated Mastodon client.
+
+See the [ideas](ideas.md).
